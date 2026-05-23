@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mal0ri
-- 👀 I’m interested in programming and 3D modeling
-- 🌱 I’m currently learning CSS and Blender
-- 💞️ I’m looking to collaborate on Discord CSS customization
+- 👀 I’m a Game Dev student
+- 🌱 I’m currently learning c++
 - 📫 How to reach me :O
 - 😄 Pronouns: they/it
 - ⚡ Fun fact: Fruits do not exist

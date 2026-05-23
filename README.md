@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CSS and Blender
 - 💞️ I’m looking to collaborate on Discord CSS customization
 - 📫 How to reach me :O
-- 😄 Pronouns: she/they
+- 😄 Pronouns: they/it
 - ⚡ Fun fact: Fruits do not exist
 
 <!---
